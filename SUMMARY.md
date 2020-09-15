@@ -10,3 +10,4 @@
     - [Controller](docs/features/controller.md)
     - [Response](docs/features/response.md)
     - [Request](docs/features/request.md)
+    - [Flash](docs/features/flash.md)

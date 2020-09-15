@@ -21,7 +21,7 @@ All routes and controller actions, you will be returning a full `MiniPHP\Respons
 On the other hand you can get access `Response` object by global `response()` function.
 
 ```php
-Response{
+class Response{
     public getBody(): mixed
     public setBody($data): Response
     public withJSON($data): Response

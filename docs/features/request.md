@@ -39,7 +39,7 @@ class HomeController
 
 
 ```php
-Request{
+class Request{
     public all(): array
     public only(array $keys): array
     public except(array $keys): array

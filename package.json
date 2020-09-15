@@ -1,0 +1,26 @@
+{
+  "name": "mini-php-doc",
+  "version": "1.0.0",
+  "description": "Documentation website of MiniPHP framework",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingRayhan/mini-php-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingRayhan/mini-php-doc/issues"
+  },
+  "homepage": "https://github.com/kingRayhan/mini-php-doc#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

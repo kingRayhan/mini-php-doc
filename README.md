@@ -1,6 +1,8 @@
 # Mini PHP
 #### `MiniPHP` is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 
+[Github](https://github.com/kingRayhan/mini-php)
+
 ## Features
 
 - HTTP Router
